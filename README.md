@@ -1,2 +1,2 @@
 # practice-qlib
-THis is a project for practicing qlib
+This is a project for practicing qlib
