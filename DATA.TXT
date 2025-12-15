@@ -1,0 +1,6 @@
+python scripts/data_collector/yahoo/collector.py update_data_to_bin --qlib_data_1d_dir <user data dir> --trading_date <start date> --end_date <end date>
+
+python scripts/data_collector/yahoo/collector.py update_data_to_bin --qlib_data_1d_dir <user data dir> --trading_date <start date> --end_date <end date>
+
+# download 1d
+python scripts/get_data.py qlib_data --target_dir ~/.qlib/qlib_data/cn_data --region cn
